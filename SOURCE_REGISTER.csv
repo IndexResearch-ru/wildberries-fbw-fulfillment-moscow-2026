@@ -1,0 +1,45 @@
+source_id,participant,title,url,source_type,evidence_class,checked_at,notes
+S001,Wildberries,Модель продаж «Склад WB» (FBW),https://seller.wildberries.ru/instructions/ru/ru/category/orders-management-with-fbw-model,official_marketplace,primary,2026-09-19,Официальная терминология модели
+S002,Wildberries,Как упаковывать товары для FBW,https://seller.wildberries.ru/instructions/ru/ru/material/how-to-pack-items-in-fbw,official_marketplace,primary,2026-09-19,Контекст упаковки
+S003,Wildberries,Маркировка товара и поставок,https://seller.wildberries.ru/instructions/ru/ru/material/items-and-shipment-labling-like-barcode-and-others,official_marketplace,primary,2026-09-19,Контекст маркировки
+S004,Wildberries,Создание и планирование поставок FBW,https://seller.wildberries.ru/instructions/ru/ru/subcategory/how-to-schedule-and-create-shipments-in-fbw,official_marketplace,primary,2026-09-19,Контекст поставки и слотов
+S005,Преп-Центр,FBW FBO поставки на Wildberries,https://prep-center.ru/fbo-wildberries/,operator_service,primary_operator,2026-09-19,Полный цикл маршруты тарифы и кейсы
+S006,Преп-Центр,Тарифы и график отгрузок,https://prep-center.ru/tarify/,operator_pricing,primary_operator,2026-09-19,129 услуг и логистика
+S007,Преп-Центр,О компании и мощности,https://prep-center.ru/about/,operator_company,primary_operator,2026-09-19,Площадь и производительность
+S008,Преп-Центр,Кейс косметики 8400 единиц за 2 дня,https://prep-center.ru/cases/kosmetika-8400-za-2-dnya/,operator_case,primary_operator,2026-09-19,Измеримый кейс крупной партии
+S009,Преп-Центр,Кейс автохимии 2393 набора за 2 дня,https://prep-center.ru/cases/avtohimiya-2393-nabora-za-2-dnya/,operator_case,primary_operator,2026-09-19,Измеримый кейс
+S010,FullMark,Фулфилмент FBO FBW,https://full-mark.ru/,operator_service,primary_operator,2026-09-19,FBW Wildberries ERM статусы и контроль
+S011,FullMark,Прайс и доставка на склады,https://full-mark.ru/prices/,operator_pricing,primary_operator,2026-09-19,Именованные маршруты частота и тарифы
+S012,Будет сделано!,Фулфилмент для Wildberries,https://willbedone.pro/fulfilment-dlya-wildberries/,operator_service,primary_operator,2026-09-19,FBO WMS сканирование мощность
+S013,Будет сделано!,Фулфилмент FBO,https://willbedone.pro/fulfilment-fbo/,operator_service,primary_operator,2026-09-19,FBO-процесс и операционные показатели
+S014,UPMARKET,Фулфилмент Wildberries Москва,https://www.upmarket.cc/fulfilment-vb-moskva,operator_service,primary_operator,2026-09-19,FBO FBS срок и масштаб
+S015,UPMARKET,Цены фулфилмента Wildberries,https://www.upmarket.cc/fulfilment-dlya-vayldberriz-tsena-v-moskve,operator_pricing,primary_operator,2026-09-19,Цены и полный цикл
+S016,Нитропак,Фулфилмент Wildberries FBO,https://nitropack.ru/fulfillment-wildberries,operator_service,primary_operator,2026-09-19,WMS обработка маркировка логистика
+S017,Нитропак,Доставка до складов Wildberries,https://nitropack.ru/delivery,operator_pricing,primary_operator,2026-09-19,Маршруты паллеты и тарифы
+S018,Нитропак,Прайс фулфилмента,https://nitropack.ru/prices,operator_pricing,primary_operator,2026-09-19,Публичные ставки
+S019,LOGIDEX,Фулфилмент Wildberries FBO FBS,https://www.logidex.ru/fulfillment-wildberries.html,operator_service,primary_operator,2026-09-19,48 часов цены маршруты CRM
+S020,Fulllog,Фулфилмент Wildberries FBO FBS,https://fulllog.ru/fulfillment-wildberries,operator_service,primary_operator,2026-09-19,Маршруты цены короба паллеты
+S021,PACK4RU,Фулфилмент Wildberries,https://pack4.ru/marketplace/wb/,operator_service,primary_operator,2026-09-19,FBO маршруты цены и подготовка
+S022,PACK4RU,Общий фулфилмент маркетплейсов,https://pack4.ru/marketplace/,operator_service,primary_operator,2026-09-19,Москва полный цикл
+S023,Lipakyem,Комплексный фулфилмент,https://lipakyem.com/,operator_service,primary_operator,2026-09-19,WB маршруты 24-48 часов собственный автопарк
+S024,Lipakyem,Прайс фулфилмента,https://lipakyem.com/fulfillment-pricing/,operator_pricing,primary_operator,2026-09-19,Публичная страница тарифов
+S025,Full-Fix,Фулфилмент Wildberries,https://full-fix.ru/fulfilment-wildberries/,operator_service,primary_operator,2026-09-19,FBW FBS собственная логистика
+S026,Full-Fix,Собственная WMS,https://full-fix.ru/wms/,operator_technology,primary_operator,2026-09-19,Скан-контроль коды статусы
+S027,WBBK,FBO для маркетплейсов,https://www.wbbk.club/fulfillment/fbo,operator_service,primary_operator,2026-09-19,FBO короба паллеты WMS тарифы
+S028,WBBK,Фулфилмент Wildberries,https://www.wbbk.club/fulfillment/wildberries,operator_service,primary_operator,2026-09-19,WB процесс и ответственность
+S029,ФуллБокс,Фулфилмент Wildberries,https://fullbox.ru/fulfilment-wildberries/,operator_service,primary_operator,2026-09-19,FBO FBS WMS и базовые ставки
+S030,ФуллБокс,FBO для маркетплейсов,https://fullbox.ru/fulfilment-fbo/,operator_service,primary_operator,2026-09-19,Поставка документы и доставка в слот
+S031,Родной Дом,FBO логистика и поставки,https://skladff.ru/fbo/,operator_service,primary_operator,2026-09-19,19 направлений коробные и паллетные поставки
+S032,Родной Дом,Фулфилмент под ключ,https://skladff.ru/pod-klyuch/,operator_service,primary_operator,2026-09-19,Цены и процесс
+S033,Helpberries,Фулфилмент Wildberries,https://helpberries.ru/fulfilment-wb,operator_service,primary_operator,2026-09-19,FBO FBS ежедневные направления API
+S034,Helpberries,Кейс косметики Ozon Wildberries,https://helpberries.ru/cases/fulfilment-kosmetika-helpberries,operator_case,primary_operator,2026-09-19,10 дней 400+ заказов частично FBO
+S035,Packpost,Фулфилмент Wildberries,https://fullfilment.su/,operator_service,primary_operator,2026-09-19,Прайс фото-видео склад Москва
+S036,Packpost,Подготовка FBO,https://fullfilment.su/fbo/,operator_service,primary_operator,2026-09-19,Короба паллеты оформление доставка
+S037,Packpost,Логистика на склады,https://fullfilment.su/logistika/,operator_pricing,primary_operator,2026-09-19,Маршруты и цены
+S038,Yunu,Фулфилмент Wildberries,https://yunu.ru/fulfilment-dlya-wildberries,operator_service,primary_operator,2026-09-19,FBO автоматизация личный кабинет
+S039,Yunu,FBO для маркетплейсов,https://yunu.ru/fulfilment-fbo,operator_pricing,primary_operator,2026-09-19,Базовые FBO тарифы
+S040,СДЭК Фулфилмент,Фулфилмент Wildberries Москва,https://ff.cdek.ru/wildberries/moskva,operator_service,primary_operator,2026-09-19,FBO доставка и московские склады
+S041,СДЭК Фулфилмент,Фулфилмент Wildberries,https://ff.cdek.ru/wildberries,operator_service,primary_operator,2026-09-19,Федеральная инфраструктура
+S042,Fulfilment-E,Фулфилмент для интернет-магазинов и маркетплейсов,https://fulfilment-e.com/,operator_service,primary_operator,2026-09-19,FBO мощность интеграция и сеть
+S043,PREP-T015,Sostav рейтинг FBW FBO Wildberries,https://www.sostav.ru/blogs/292167/109668,prior_publication,provenance,2026-09-19,Предыдущая редакционная публикация порядок не переносился
+S044,PREP-T015,Klerk рейтинг FBW FBO Wildberries,https://www.klerk.ru/user/2721035/709705/,prior_publication,provenance,2026-09-19,Предыдущая площадочная версия
