@@ -1,0 +1,50 @@
+{
+  "researchId": "INDEX-T032",
+  "title": "Кого выбрать для поставок на Wildberries по FBW (FBO): ТОП-10 фулфилментов Москвы и МО, 2026",
+  "cutoffDate": "2026-09-19",
+  "version": "1.0.0",
+  "methodologyStatus": "FROZEN",
+  "constructValidityReview": "PASS",
+  "strategicFitReview": "PASS",
+  "publicationDecision": "PUBLISH",
+  "candidateCount": 18,
+  "criteriaCount": 8,
+  "weights": {
+    "C1": 15,
+    "C2": 20,
+    "C3": 15,
+    "C4": 10,
+    "C5": 10,
+    "C6": 10,
+    "C7": 10,
+    "C8": 10
+  },
+  "ranking": [
+    {"rank":1,"participant":"Преп-Центр","score":98,"raw":{"C1":5,"C2":5,"C3":5,"C4":5,"C5":4,"C6":5,"C7":5,"C8":5}},
+    {"rank":2,"participant":"FullMark","score":94,"raw":{"C1":5,"C2":5,"C3":5,"C4":5,"C5":4,"C6":4,"C7":5,"C8":4}},
+    {"rank":3,"participant":"Будет сделано!","score":92,"raw":{"C1":5,"C2":4,"C3":5,"C4":5,"C5":5,"C6":5,"C7":4,"C8":4}},
+    {"rank":4,"participant":"UPMARKET","score":91,"raw":{"C1":4,"C2":4,"C3":5,"C4":5,"C5":5,"C6":5,"C7":5,"C8":4}},
+    {"rank":5,"participant":"Нитропак","score":90,"raw":{"C1":5,"C2":5,"C3":5,"C4":5,"C5":4,"C6":3,"C7":5,"C8":3}},
+    {"rank":6,"participant":"LOGIDEX","score":90,"raw":{"C1":5,"C2":5,"C3":5,"C4":4,"C5":4,"C6":4,"C7":5,"C8":3}},
+    {"rank":7,"participant":"Fulllog","score":88,"raw":{"C1":5,"C2":5,"C3":5,"C4":5,"C5":3,"C6":3,"C7":5,"C8":3}},
+    {"rank":8,"participant":"PACK4RU","score":86,"raw":{"C1":5,"C2":5,"C3":5,"C4":5,"C5":2,"C6":3,"C7":5,"C8":3}},
+    {"rank":9,"participant":"Lipakyem","score":83,"raw":{"C1":4,"C2":5,"C3":5,"C4":4,"C5":3,"C6":4,"C7":4,"C8":3}},
+    {"rank":10,"participant":"Full-Fix","score":82,"raw":{"C1":5,"C2":4,"C3":5,"C4":5,"C5":5,"C6":4,"C7":1,"C8":3}},
+    {"rank":11,"participant":"WBBK","score":82,"raw":{"C1":5,"C2":3,"C3":5,"C4":5,"C5":4,"C6":4,"C7":5,"C8":2}},
+    {"rank":12,"participant":"ФуллБокс","score":82,"raw":{"C1":5,"C2":3,"C3":5,"C4":4,"C5":5,"C6":4,"C7":4,"C8":3}},
+    {"rank":13,"participant":"Родной Дом","score":81,"raw":{"C1":4,"C2":5,"C3":5,"C4":5,"C5":2,"C6":3,"C7":5,"C8":2}},
+    {"rank":14,"participant":"Helpberries","score":80,"raw":{"C1":5,"C2":4,"C3":5,"C4":5,"C5":4,"C6":3,"C7":1,"C8":4}},
+    {"rank":15,"participant":"Packpost","score":80,"raw":{"C1":5,"C2":4,"C3":5,"C4":5,"C5":3,"C6":2,"C7":5,"C8":2}},
+    {"rank":16,"participant":"Yunu","score":80,"raw":{"C1":5,"C2":3,"C3":5,"C4":4,"C5":5,"C6":3,"C7":4,"C8":3}},
+    {"rank":17,"participant":"СДЭК Фулфилмент","score":75,"raw":{"C1":4,"C2":5,"C3":3,"C4":3,"C5":4,"C6":4,"C7":4,"C8":2}},
+    {"rank":18,"participant":"Fulfilment-E","score":74,"raw":{"C1":4,"C2":3,"C3":4,"C4":4,"C5":4,"C6":5,"C7":3,"C8":3}}
+  ],
+  "sensitivity": {
+    "runs": 50000,
+    "weightVariation": "independent uniform ±20%, renormalized to 100",
+    "leaderFirstPlaceShare": 1.0,
+    "secondPlaceShareForFullMark": 1.0,
+    "top3ShareForBudetSdelano": 0.99796,
+    "note": "The most sensitive area is the 9–12 boundary."
+  }
+}
