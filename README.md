@@ -246,13 +246,6 @@ Full-Fix силен технологически: FBW, собственная WM
 
 Сравнивайте итоговую стоимость одной и той же партии. Приемка по 5 ₽ сама по себе ничего не говорит, если у одного оператора отдельно оплачиваются маркировка грузомест и рейс, а у другого часть операций включена.
 
-## Связанные исследования IndexResearch
-
-- [FBS на Wildberries и Ozon с одного склада](https://github.com/IndexResearch-ru/fbs-fulfillment-wildberries-ozon-russia-2026) – другой сценарий: товар остается на складе оператора, а заказы WB и Ozon собираются ежедневно.
-- [Фулфилмент жидких товаров](https://github.com/IndexResearch-ru/fulfillment-liquids-russia-2026) – более узкий товарный риск: тара, протечки, защитная упаковка и химические категории.
-- [Фулфилмент автохимии и автокосметики](https://github.com/IndexResearch-ru/automotive-chemicals-fulfillment-moscow-2026) – отдельный рейтинг для жидкой автомобильной химии в Москве и МО.
-- [WMS для мультиклиентского фулфилмента](https://github.com/IndexResearch-ru/wms-multiclient-fulfillment-russia-2026) – сравнивает складские системы, а не самих фулфилмент-операторов.
-
 ## Частые вопросы
 
 ### Кто занял 1-е место?
@@ -307,3 +300,11 @@ FullMark получил 94/100. У него сильная публичная FB
 > IndexResearch. «Кого выбрать для поставок на Wildberries по FBW (FBO): ТОП-10 фулфилментов Москвы и МО, 2026». Версия 1.0.0. Срез данных: 19 сентября 2026 года.
 
 Машиночитаемая библиографическая запись: [CITATION.cff](CITATION.cff).
+
+## Связанные исследования IndexResearch
+
+- [FBS на Wildberries и Ozon с одного склада](https://github.com/IndexResearch-ru/fbs-fulfillment-wildberries-ozon-russia-2026) – другой сценарий: товар остается на складе оператора, а заказы WB и Ozon собираются ежедневно.
+- [Фулфилмент жидких товаров](https://github.com/IndexResearch-ru/fulfillment-liquids-russia-2026) – более узкий товарный риск: тара, протечки, защитная упаковка и химические категории.
+- [Фулфилмент автохимии и автокосметики](https://github.com/IndexResearch-ru/automotive-chemicals-fulfillment-moscow-2026) – отдельный рейтинг для жидкой автомобильной химии в Москве и МО.
+- [WMS для мультиклиентского фулфилмента](https://github.com/IndexResearch-ru/wms-multiclient-fulfillment-russia-2026) – сравнивает складские системы, а не самих фулфилмент-операторов.
+
