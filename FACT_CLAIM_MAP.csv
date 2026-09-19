@@ -1,0 +1,44 @@
+claim_id,participant,metric_ids,claim,source_ids,evidence_type,status
+CL001,Wildberries,,Официальное название складской модели Wildberries — «Склад WB» (FBW),S001,official_marketplace,VERIFIED
+CL002,Wildberries,C3,Wildberries публикует отдельные требования к упаковке и маркировке FBW-поставок,S002|S003,official_marketplace,VERIFIED
+CL003,Преп-Центр,C1|C2|C4,Опубликован отдельный FBW/FBO процесс с 18 направлениями Wildberries и коробно-паллетной логистикой,S005,operator_claim,VERIFIED
+CL004,Преп-Центр,C7,Опубликованы ставки обработки и маршрутные тарифы Wildberries,S005|S006,operator_claim,VERIFIED
+CL005,Преп-Центр,C6|C8,Опубликованы производительность до 20000 единиц за 12-часовую смену и измеримые кейсы партий,S005|S007|S008|S009,operator_claim,VERIFIED
+CL006,Преп-Центр,C3|C5,Подтверждены маркировка Честный знак несколько форматов упаковки и WMS,S005,operator_claim,VERIFIED
+CL007,FullMark,C1|C5,FullMark прямо называет модель FBW Wildberries и показывает ERM со статусами и контролями,S010,operator_claim,VERIFIED
+CL008,FullMark,C2|C4|C7,Прайс содержит ежедневные маршруты на Коледино Электросталь Обухово Подольск и региональные направления с тарифами коробов и паллет,S011,operator_claim,VERIFIED
+CL009,FullMark,C6|C8,Публичный интерфейс показывает числовой пример партии и статусы подготовки поставки,S010,operator_claim,VERIFIED
+CL010,Будет сделано!,C1|C3|C5,Подтверждены FBO Wildberries Celicom WMS сканирование на этапах и API-проверки маркировки,S012|S013,operator_claim,VERIFIED
+CL011,Будет сделано!,C6|C8,Заявлены 99.94% точности на 250000 единиц и мощность 5000 единиц в день,S012|S013,operator_claim,VERIFIED
+CL012,Будет сделано!,C2,Подтверждена организация FBO поставок на склады Wildberries но публичная маршрутная сетка менее детальна чем у лидеров C2,S012|S013,operator_claim,VERIFIED
+CL013,UPMARKET,C1|C6,Подтверждены FBO/FBS полный цикл до 3 дней и работа от 5000 единиц в месяц,S014|S015,operator_claim,VERIFIED
+CL014,UPMARKET,C5,Опубликованы технологические и операционные контроли фулфилмента,S014,operator_claim,VERIFIED
+CL015,Нитропак,C1|C3|C5,Отдельная услуга Wildberries FBO включает обработку маркировку WMS и прозрачные статусы,S016,operator_claim,VERIFIED
+CL016,Нитропак,C2|C4|C7,Опубликованы прямые рейсы тарифы паллет и несколько направлений WB,S017|S018,operator_claim,VERIFIED
+CL017,LOGIDEX,C1|C3|C6,LOGIDEX публикует FBO/FBS Wildberries упаковку Честный знак и стандартный срок 48 часов,S019,operator_claim,VERIFIED
+CL018,LOGIDEX,C2,Заявлены ежедневные отгрузки на склады в радиусе 200 км и региональные рейсы по графику,S019,operator_claim,VERIFIED
+CL019,LOGIDEX,C7,Опубликован пооперационный прайс и пример расчета 1000 единиц,S019,operator_claim,VERIFIED
+CL020,Fulllog,C1|C2|C4,Опубликованы FBO поставки на конкретные склады WB коробами и паллетами включая региональные направления,S020,operator_claim,VERIFIED
+CL021,Fulllog,C7,Опубликован подробный пооперационный и маршрутный прайс,S020,operator_claim,VERIFIED
+CL022,PACK4RU,C1|C2|C4,Отдельная WB страница подтверждает FBO коробные и паллетные поставки на именованные склады,S021,operator_claim,VERIFIED
+CL023,PACK4RU,C7,Опубликованы ставки обработки и маршрутов до конкретных складов,S021|S022,operator_claim,VERIFIED
+CL024,Lipakyem,C2|C6,Оператор заявляет ежедневные отгрузки собственным автопарком 6 дней в неделю и цикл 24–48 часов,S023,operator_claim,VERIFIED
+CL025,Lipakyem,C3|C5,Подтверждены маркировка Честный знак видеофиксация и личный кабинет,S023,operator_claim,VERIFIED
+CL026,Full-Fix,C1|C2,Подтверждены FBW и FBS и собственная логистика на склады WB по Москве и России,S025,operator_claim,VERIFIED
+CL027,Full-Fix,C3|C5,Собственная WMS контролирует статусы маркировку и сканирование,S025|S026,operator_claim,VERIFIED
+CL028,WBBK,C1|C4|C7,Отдельная FBO услуга содержит короба паллеты грузовые документы и публичные ставки,S027,operator_claim,VERIFIED
+CL029,WBBK,C5|C6,Опубликованы WMS 24/7 и отгрузка за 36 часов,S027|S028,operator_claim,VERIFIED
+CL030,ФуллБокс,C1|C5|C6,Подтверждены FBO/FBS WMS в реальном времени и запуск за 1 рабочий день,S029|S030,operator_claim,VERIFIED
+CL031,ФуллБокс,C7,Опубликованы базовые ставки приемки маркировки упаковки хранения и доставки,S029|S030,operator_claim,VERIFIED
+CL032,Родной Дом,C2|C4|C7,Опубликованы 19 направлений коробные и паллетные FBO рейсы и цены,S031|S032,operator_claim,VERIFIED
+CL033,Helpberries,C1|C2|C5,Подтверждены FBO/FBS ежедневные Коледино Подольск Тула Электросталь и автоматический учет/API,S033,operator_claim,VERIFIED
+CL034,Helpberries,C8,Опубликован кейс выхода на Ozon и Wildberries за 10 дней с 400+ заказов в сутки и частичным FBO,S034,operator_claim,VERIFIED
+CL035,Packpost,C1|C4,Подтверждена подготовка FBO под ключ с коробами паллетами оформлением и доставкой,S035|S036,operator_claim,VERIFIED
+CL036,Packpost,C2|C7,Опубликованы маршруты Московского региона и регионов а также конкретные тарифы логистики,S037,operator_claim,VERIFIED
+CL037,Yunu,C1|C5,Подтверждены FBO Wildberries и автоматизированное управление FBO-заявками через личный кабинет,S038|S039,operator_claim,VERIFIED
+CL038,Yunu,C7,Опубликованы базовые FBO ставки приемки хранения подбора и доставки,S038|S039,operator_claim,VERIFIED
+CL039,СДЭК Фулфилмент,C1|C2,Подтверждены FBO Wildberries и доставка в Москве МО и регионах России,S040|S041,operator_claim,VERIFIED
+CL040,СДЭК Фулфилмент,C6,Опубликована сеть складов и федеральная инфраструктура но FBW-специфичные измеримые кейсы раскрыты слабее,S040|S041,operator_claim,VERIFIED
+CL041,Fulfilment-E,C1|C6,Подтверждены FBO Wildberries и производственная мощность до 20000 товаров в сутки; также заявлены более 100000 обрабатываемых единиц в сутки по сети,S042,operator_claim,VERIFIED
+CL042,Fulfilment-E,C5,Подтверждена интеграция с личным кабинетом и автоматическое получение заказов,S042,operator_claim,VERIFIED
+CL043,PREP-T015,,Предыдущие Sostav и Klerk публикации использованы как provenance и discovery вход но старый порядок не импортирован,S043|S044,provenance,VERIFIED
